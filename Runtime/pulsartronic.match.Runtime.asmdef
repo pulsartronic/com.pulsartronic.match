@@ -1,0 +1,19 @@
+{
+    "name": "pulsartronic.match",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8218170c250c7a84289847374e390561",
+        "GUID:17a4f8b72e287d04492cb1e0257a8b63",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:a73e64a37adee6fbeb2742a40f0fc198"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

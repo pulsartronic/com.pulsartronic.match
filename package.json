@@ -1,0 +1,19 @@
+{
+  "name": "pulsartronic.match",
+  "version": "1.1.1",
+  "displayName": "Match package",
+  "description": "Generic implementation of match mechanics",
+  "unity": "2021.3",
+  "unityRelease": "6f1",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "match"
+  ],
+  "author": {
+    "name": "Pulsartronic",
+    "email": "dev.pulsartronic@gmail.com",
+    "url": ""
+  }
+}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99822abdf42f4d54283865c377084d86, type: 3}
+  m_Name: PostKickAudioAsset
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 99b1073a320356940974bb09021fa579, type: 3}
+  - {fileID: 8300000, guid: 7b681d33e9f1c214eb2c1eda6544c1a0, type: 3}
+  - {fileID: 8300000, guid: 0cb1f9dc086396f4db423c3f52d0eb33, type: 3}
+  - {fileID: 8300000, guid: b54b62b223638e845ab54844f02d2c9a, type: 3}
+  - {fileID: 8300000, guid: 79cbb4998f5c97b43917583be45687b7, type: 3}
+  - {fileID: 8300000, guid: 142236d5fc5a6bc47b2ad0c43c347f96, type: 3}
+  - {fileID: 8300000, guid: d20bb514c1811074b937a2ef5cf37e96, type: 3}
+  - {fileID: 8300000, guid: 0c94b68a9f57ff94687d570711273eb2, type: 3}

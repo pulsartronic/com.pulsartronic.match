@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83e8ab1114a1e9ba2bb7094fa1273606, type: 3}
+  m_Name: SingleWhisAudioData
+  m_EditorClassIdentifier: 
+  channel: Whis
+  audioAsset: {fileID: 11400000, guid: ae7734317dcef9f4180060ade1a0bcb5, type: 2}
+  mixerGroup: {fileID: -5671366721489549643, guid: b46822275021cee3c959efc17819c683,
+    type: 2}
+  volume: 1
+  loop: 0

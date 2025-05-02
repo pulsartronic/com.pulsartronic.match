@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7382ad7601d1f441b44afabaaa735aa, type: 3}
+  m_Name: TeamEquipment_7
+  m_EditorClassIdentifier: 
+  color: R
+  hair: {fileID: 2100000, guid: 9940abf4df310c24f9ace7a930a95dab, type: 2}
+  skin: {fileID: 2100000, guid: dff3a0023e6981e46a266f6d0e0700d5, type: 2}
+  tshirt_0: {fileID: 2100000, guid: 6b0412d1d7d0eef4b8b8a5c7aad27f2a, type: 2}
+  tshirt_1: {fileID: 2100000, guid: 182712a15c0271a41bfc886aac312d4e, type: 2}
+  shorts: {fileID: 2100000, guid: 6b60e43e4333de047bb7443614bbecc0, type: 2}
+  shoes: {fileID: 2100000, guid: 6604de51261e6634f9c84169988b5ece, type: 2}
