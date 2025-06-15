@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35a7f285f36b6244680ba323e9357228, type: 3}
+  m_Name: StadiumColors.Blue
+  m_EditorClassIdentifier: 
+  light_color: {fileID: 2100000, guid: c404b47198cda5d47809504c7c7bc3a5, type: 2}
+  dark_color: {fileID: 2100000, guid: 2ed8ee6660b54b849ae729abbc67f472, type: 2}
+  seat_color_01: {fileID: 2100000, guid: 6797a882dc05a764195115ef7eb460f3, type: 2}
+  seat_color_02: {fileID: 2100000, guid: 36752a5b055379c439982898ecae0e5c, type: 2}
