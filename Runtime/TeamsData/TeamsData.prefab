@@ -46,7 +46,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   equipments: {fileID: 11400000, guid: c30402351f2aef946b40fe6351e048bc, type: 2}
   speed_curve:
-    min: 8
+    min: 8.5
     max: 9.5
     curve:
       serializedVersion: 2
