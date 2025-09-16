@@ -6,4 +6,5 @@ public class GameLimits : MonoBehaviour {
     public FieldLimits line_out_limits;
     public FieldLimits restart_null_limits;
     public FieldLimits scrum_limits;
+    public FieldLimits ingoal_limits;
 }
